@@ -103,7 +103,7 @@ git --version
 
 ### Step 1: Clone or Navigate to Project
 ```bash
-cd /Users/nerd/freelancer/01-react-native-mobile-app
+cd react-native-mobile-starter
 ```
 
 ### Step 2: Backend Setup
@@ -153,7 +153,7 @@ curl http://localhost:3000/health
 
 ```bash
 # Open a new terminal
-cd /Users/nerd/freelancer/01-react-native-mobile-app/mobile
+cd react-native-mobile-starter/mobile
 
 # Install dependencies
 npm install
